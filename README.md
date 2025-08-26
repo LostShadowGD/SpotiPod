@@ -23,7 +23,7 @@ A tool for exporting your Spotify Liked Songs to an iPod.
 # Usage
 
 1. When you run the script, after authenticating, you must choose if you want to download the songs or not.
-   > [!NOIE]
+   > [!NOTE]
    > Choosing to not download the songs will ONLY create the liked_songs.csv file, instead of both the CSV and the "music" folder.
 2. The script will then proceed in generating the CSV (and downloading the music if asked).
 3. After the script is complete, listen to all songs in the "TO_CHECK" folder, and decide which you would like to keep.
