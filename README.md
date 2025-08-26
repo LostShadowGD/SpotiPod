@@ -1,6 +1,12 @@
 # SpotiPod
 A tool for exporting your Spotify Liked Songs to an iPod.
 
+> [!NOTE]
+> Downloading the songs may take a while. Ensure you have time.
+
+> [!TIP]
+> SpotiPod was tested on Python 3.11.9, SpotDL 4.2.11, and yt-dlp 2025.08.22. Use these (or later) for best results.
+
 # Installation
 
 1. Download the script file from the Releases tab and place it in a folder. Preferably named "SpotiPod" - doesn't really matter tho).
